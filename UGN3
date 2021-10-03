@@ -79,7 +79,7 @@ def hero():
         chalo()
         print("\n---------Tumhare Bhai Ne Server Ki Maa Ch**d di-----------")
         chalo1()
-        print("\n---------UG Ko Colure Mil Gaya-------------")
+        print("\n---------UG Ko Colour Mil Gaya-------------")
         print('\n')
         def getSum(n):
             sum=0
@@ -118,7 +118,7 @@ def hero():
         y=input("Do you want to play : Press 1 and 0 to exit \n")
         if(y==0):
             y=False
-        if (len(numbers)>11):
+        if (len(numbers)>2):
             clear()
             system('UGNature Thank you🤑!!')
             print("Next Time Phir Chodenge Server🤑!!")
