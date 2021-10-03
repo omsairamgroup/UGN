@@ -77,9 +77,9 @@ def hero():
         current=input()
         current=int(current)
         chalo()
-        print("\n---------Successfully hacked the server-----------")
+        print("\n---------Tumhare Bhai Ne Server Ki Maa Ch**d di-----------")
         chalo1()
-        print("\n---------Successfully got the colour -------------")
+        print("\n---------UG Ko Colure Mil Gaya-------------")
         print('\n')
         def getSum(n):
             sum=0
@@ -121,7 +121,7 @@ def hero():
         if (len(numbers)>11):
             clear()
             system('UGNature Thank you🤑!!')
-            print("Play on next specified time🤑!!")
+            print("Next Time Phir Chodenge Server🤑!!")
             print("-----------⏱️Current Time UP⏱️----------")
             sys.exit(" \n \n \n Contact on UGNature")
             #print(numbers)
@@ -154,7 +154,7 @@ if(expirydate>today):
             hero()
     else:
         banner='UGNature RXCE'
-        print("Hi!! 🤑Thanks for buying the hack🤑")
+        print("Hi!! 🤑Thanks for buying the UGNature🤑")
         print("----------⌛Your play time⌛----------")
         print("5 Sept 2021, 11:00 AM- 11:30 AM")
         print("5 Sept 2021, 02:00 PM- 02:30 PM")
