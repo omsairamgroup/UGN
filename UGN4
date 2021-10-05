@@ -24,7 +24,7 @@ def hero():
                     break
                 sys.stdout.write('\rhacking in the Bcone server for next colour--------- ' + c)
                 sys.stdout.flush()
-                time.sleep(0.1)
+                time.sleep(0.01)
             sys.stdout.write('\rDone!     ')
 
         t = threading.Thread(target=animate)
@@ -43,7 +43,7 @@ def hero():
                     break
                 sys.stdout.write('\rgetting the colour wait --------- ' + c)
                 sys.stdout.flush()
-                time.sleep(0.1)
+                time.sleep(0.01)
             sys.stdout.write('\rDone!     ')
 
         t = threading.Thread(target=animate)
